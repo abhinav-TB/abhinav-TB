@@ -4,7 +4,7 @@
  - 🔭 I’m currently working on :A text recognition model
  - 🌱 I’m currently learning computer vision , Algorithms
  - 💬 Ask me about python , javascript , react 
- - 📫 How to reach me: @abhiGamez on Twitter
+ - 📫 How to reach me: [abhiGamez](https://twitter.com/abhiGamez) on Twitter
  
 
 <!--START_SECTION:waka-->
