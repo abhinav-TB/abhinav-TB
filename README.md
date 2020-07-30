@@ -19,9 +19,9 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-Thanks for visiting my profile and I would love to connect👇
+Thanks for visiting my profile and feel free to reach me out for any projects and discussions
 
-<p >
+<p style="margin-right:100px">
 <a href="https://twitter.com/abhigamez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhigamez" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/abhinav-t-b-226172190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhinav-t-b-226172190" height="20" width="20" /></a>
 <a href="https://fb.com/abhinav.baiju.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abhinav.baiju.5" height="20" width="20" /></a>
