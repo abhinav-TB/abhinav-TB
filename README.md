@@ -7,7 +7,7 @@
  - 📫 How to reach me: @[abhiGamez](https://twitter.com/abhiGamez) on Twitter
  - ⚡ Fun fact: I love javaScript 😄
  
- How I spend my time
+ How I spend my time(weekly)
 
 <!--START_SECTION:waka-->
 ```text
