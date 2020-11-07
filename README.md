@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Abhinav
 
 
- - 🔭 I’m currently working on :A computer vision model
+ - 🔭 I’m currently working on my problem solving skills
  - 🌱 I’m currently learning computer vision , Algorithms
  - 💬 Ask me about python , javascript , react 
  - 📫 How to reach me: @[abhiGamez](https://twitter.com/abhiGamez) on Twitter
