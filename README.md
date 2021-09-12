@@ -9,8 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       13 hrs 26 mins  ████████████████████████▓   99.03 % 
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python       13 hrs 26 mins  ███████████████████████▒░   93.47 % 
+Solidity     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 <!--END_SECTION:waka-->
 
