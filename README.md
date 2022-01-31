@@ -2,7 +2,7 @@
 
 
  - 🌱 I’m currently learning computer vision , Algorithms
- - 💬 Ask me about python , javascript , react 
+ - 💬 Ask me about python , javascript , deep learning
  - 📫 How to reach me: @[abhiGamez](https://twitter.com/abhiGamez) on Twitter
  
  How I spend my time(weekly)
