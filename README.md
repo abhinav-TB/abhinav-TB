@@ -8,6 +8,11 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Step By Step Explanation To Pytorch For Deep Learning](https://abhigamez.hashnode.dev/step-by-step-explanation-to-pytorch-for-deep-learning-ckyy11pmi0b9b3rs1aa1u3ndv)
+- [Introduction To Docker](https://abhigamez.hashnode.dev/introduction-to-docker-ckywe8jch1mqk66s1al9agf44)
+- [Different Ways To Make Network Requests in Javascript](https://abhigamez.hashnode.dev/different-ways-to-make-network-requests-in-javascript-cksq36pvl0gflwps12350347h)
+- [Writing Your Node.js Apps Using ES6](https://abhigamez.hashnode.dev/writing-your-nodejs-apps-using-es6-cks33qny90tj9ees1ga0e33h8)
+- [Understanding Cors](https://abhigamez.hashnode.dev/understanding-cors-ckrhwj9il0higlts1h8icgu8q)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
