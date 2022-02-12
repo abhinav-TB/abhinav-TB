@@ -6,9 +6,9 @@
 
 - 📝 I regularly write articles on [https://abhigamez.hashnode.dev/](https://abhigamez.hashnode.dev/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
