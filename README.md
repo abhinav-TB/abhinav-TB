@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav-tb" alt="abhinav-tb" /></a> </p>
 
 
-- 📝 I regularly write articles on [https://abhigamez.hashnode.dev/](https://abhigamez.hashnode.dev/)
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
