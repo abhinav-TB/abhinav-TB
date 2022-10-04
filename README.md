@@ -33,6 +33,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhinavtb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhinavtb" /></a></p>
 <br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav-tb&show_icons=true&locale=en" alt="abhinav-tb" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-tb&show_icons=true&locale=en&layout=compact" alt="abhinav-tb" /></p>
+<p>&nbsp;<img align="center" src="?username=abhinav-TB&show_icons=true&locale=en" alt="abhinav-TB" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-TB&show_icons=true&locale=en&layout=compact" alt="abhinav-tb" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-tb&" alt="abhinav-tb" /></p>
