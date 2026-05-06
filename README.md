@@ -34,6 +34,21 @@
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-TB&theme=radical" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinav-TB&theme=radical" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinav-TB&theme=radical" alt="Top languages by repo" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-TB&theme=radical" alt="GitHub streak" />
+</p>
+
 ## Support
 
 <p>
@@ -41,18 +56,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="abhinavtb" />
   </a>
 </p>
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-TB&show_icons=true&theme=radical" alt="Abhinav GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-TB&show_icons=true&theme=radical&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-tb&theme=radical" alt="GitHub streak" />
-</p>
